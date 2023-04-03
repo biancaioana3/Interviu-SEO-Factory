@@ -36,6 +36,7 @@ emag.ro pentru meniul de telefon)
 mobil acestea trebuie sa stea una sub alta).
 
 Proba 2
+
 -Generarea unui formular care sa contina urmatoarele inputuri: 
 --Nume, Prenume, Email, Telefon, Mesaj, Multiselect cu cel putin 4 
 optiuni, Input de tip fisier care sa accepte doar imagini si pdf-uri 
@@ -56,6 +57,7 @@ golite).
 alegere.
 
 Proba 3
+
 -Crearea a 2 tabele in mySql: formular_persoane_fizice si 
 formular_persoane_juridice.
 --Fiecare tabela trebuie sa aiba ca structura o cheie primara numita “id” 
